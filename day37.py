@@ -1,3 +1,16 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Trapping Rainwater
+# From: daily@techseries.dev  |  Sent: 2019-10-04  |  Asked by: Uber
+#
+# You have a landscape, in which puddles can form. You are given an array of non-negative integers representing the elevation at each location. Return the amount of water that would accumulate if it rains.
+#
+# For example: [0,1,0,2,1,0,1,3,2,1,2,1] should return 6 because 6 units of water can get trapped here.
+#
+# def capacity(arr):
+#   # Fill this in.
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16d972f62e6f2f79
+
 # Trapping Rainwater
 #You have a landscape, in which puddles can form. You are given an array of non-negative integers representing the elevation at each location. Return the amount of water that would accumulate if it rains.
 #For example: [0,1,0,2,1,0,1,3,2,1,2,1] should return 6 because 6 units of water can get trapped here.

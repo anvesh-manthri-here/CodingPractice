@@ -1,3 +1,20 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Validate Binary Search Tree
+# From: daily@techseries.dev  |  Sent: 2019-10-09  |  Asked by: Facebook
+#
+# You are given the root of a binary search tree. Return true if it is a valid binary search tree, and false otherwise. Recall that a binary search tree has the property that all values in the left subtree are less than or equal to the root, and all values in the right subtree are greater than or equal to the root.
+#
+# class TreeNode:
+#   def __init__(self, key):
+#     self.left = None
+#     self.right = None
+#     self.key = key
+#
+# def is_bst(root):
+#   # Fill this in.
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16db111896c2f909
+
 # Validate Binary Search Tree
 # You are given the root of a binary search tree. Return true if it is a valid binary search tree, and false otherwise. Recall that a binary search tree has the property that all values in the left subtree are less than or equal to the root, and all values in the right subtree are greater than or equal to the root.
 

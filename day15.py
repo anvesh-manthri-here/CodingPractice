@@ -1,3 +1,18 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Create a Simple Calculator
+# From: daily@techseries.dev  |  Sent: 2019-09-12  |  Asked by: Google
+#
+# Given a mathematical expression with just single digits, plus signs, negative signs, and brackets, evaluate the expression. Assume the expression is properly formed.
+#
+# Example:
+# Input: - ( 3 + ( 2 - 1 ) )
+# Output: -4
+#
+# def eval(expression):
+#   # Fill this in.
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16d25e544d51d784
+
 # Create a Simple Calculator
 
 supported_expressions = ['+','-','*','/','%']

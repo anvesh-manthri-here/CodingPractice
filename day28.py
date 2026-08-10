@@ -1,3 +1,17 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Find the k-th Largest Element in a List
+# From: daily@techseries.dev  |  Sent: 2019-09-25  |  Asked by: Facebook
+#
+# Given a list, find the k-th largest element in the list.
+#
+# Input: list = [3, 5, 2, 4, 6, 8], k = 3
+# Output: 5
+#
+# def findKthLargest(nums, k):
+#   # Fill this in.
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16d68d6fc8dec780
+
 # Find the k-th Largest Element in a List
 # Given a list, find the k-th largest element in the list.
 

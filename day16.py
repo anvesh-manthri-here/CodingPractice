@@ -1,3 +1,20 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Longest Sequence with Two Unique Numbers
+# From: daily@techseries.dev  |  Sent: 2019-09-13  |  Asked by: Facebook
+#
+# Given a sequence of numbers, find the longest sequence that contains only 2 unique numbers.
+#
+# Example:
+# Input: [1, 3, 5, 3, 1, 3, 1, 5]
+# Output: 4
+#
+# The longest sequence that contains just 2 unique numbers is [3, 1, 3, 1]
+#
+# def findSequence(seq):
+#   # Fill this in.
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16d2b0ba0de5b258
+
 # Longest Sequence with Two Unique Numbers
 
 def findSequence(seq):

@@ -1,3 +1,29 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Deepest Node in a Binary Tree
+# From: daily@techseries.dev  |  Sent: 2019-10-06  |  Asked by: Google
+#
+# You are given the root of a binary tree. Return the deepest node (the furthest node from the root).
+#
+# Example:
+#     a
+#    / \
+#   b   c
+#  /
+# d
+#
+# The deepest node in this tree is d at depth 3.
+#
+# class Node(object):
+#   def __init__(self, val):
+#     self.val = val
+#     self.left = None
+#     self.right = None
+#
+# def deepest(node):
+#   # Fill this in.
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16da19e252d331e1
+
 # Deepest Node in a Binary Tree
 # You are given the root of a binary tree. Return the deepest node (the furthest node from the root).
 

@@ -1,3 +1,20 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Floor and Ceiling of a Binary Search Tree
+# From: daily@techseries.dev  |  Sent: 2019-09-06  |  Asked by: Apple
+#
+# Given an integer k and a binary search tree, find the floor (less than or equal to) of k, and the ceiling (larger than or equal to) of k. If either does not exist, then print them as None.
+#
+# class Node:
+#   def __init__(self, value):
+#     self.left = None
+#     self.right = None
+#     self.value = value
+#
+# def findCeilingFloor(root_node, k, floor=None, ceil=None):
+#   # Fill this in.
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16d07007e7c0f1d2
+
 # Floor and Ceiling of a Binary Search Tree
 
 class Node:

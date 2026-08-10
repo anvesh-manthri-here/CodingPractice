@@ -1,3 +1,17 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Largest Product of 3 Elements
+# From: daily@techseries.dev  |  Sent: 2019-09-27  |  Asked by: Microsoft
+#
+# You are given an array of integers. Return the largest product that can be made by multiplying any 3 integers in the array.
+#
+# Example:
+# [-4, -4, 2, 8] should return 128 as the largest product can be made by multiplying -4 * -4 * 8 = 128.
+#
+# def maximum_product_of_three(lst):
+#   # Fill this in.
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16d73236be568826
+
 # Largest Product of 3 Elements
 # You are given an array of integers. Return the largest product that can be made by multiplying any 3 integers in the array.
 

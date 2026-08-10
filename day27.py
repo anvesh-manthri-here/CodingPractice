@@ -1,3 +1,22 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Move Zeros
+# From: daily@techseries.dev  |  Sent: 2019-09-24  |  Asked by: Facebook
+#
+# Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+#
+# Example:
+# Input: [0,1,0,3,12]
+# Output: [1,3,12,0,0]
+#
+# You must do this in-place without making a copy of the array.
+# Minimize the total number of operations.
+#
+# class Solution:
+#   def moveZeros(self, nums):
+#     # Fill this in.
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16d63b0c78b45f42
+
 # Move Zeros
 # Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
 

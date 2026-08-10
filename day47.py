@@ -1,3 +1,25 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Sort Colors
+# From: daily@techseries.dev  |  Sent: 2019-10-14  |  Asked by: Apple
+#
+# Given an array with n objects colored red, white or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white and blue.
+#
+# Here, we will use the integers 0, 1, and 2 to represent the color red, white, and blue respectively.
+#
+# Note: You are not suppose to use the library's sort function for this problem.
+#
+# Can you do this in a single pass?
+#
+# Example:
+# Input: [2,0,2,1,1,0]
+# Output: [0,0,1,1,2,2]
+#
+# class Solution:
+#   def sortColors(self, nums):
+#     # Fill this in.
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16dcad14fb3a20d4
+
 # Sort Colors
 
 #Given an array with n objects colored red, white or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white and blue.

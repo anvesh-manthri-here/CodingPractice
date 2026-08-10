@@ -1,3 +1,21 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Remove k-th Last Element From Linked List
+# From: daily@techseries.dev  |  Sent: 2019-09-21  |  Asked by: AirBNB
+#
+# You are given a singly linked list and an integer k. Return the linked list, removing the k-th last element from the list.
+#
+# Try to do it in a single pass and using constant space.
+#
+# class Node:
+#   def __init__(self, val, next=None):
+#     self.val = val
+#     self.next = next
+#
+# def remove_kth_from_linked_list(head, k):
+#   # Fill this in
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16d543deaa110820
+
 # Remove k-th Last Element From Linked List
 # You are given a singly linked list and an integer k. Return the linked list, removing the k-th last element from the list.
 # Try to do it in a single pass and using constant space.

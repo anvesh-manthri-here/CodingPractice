@@ -1,3 +1,30 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Create a balanced binary search tree
+# From: daily@techseries.dev  |  Sent: 2019-10-03  |  Asked by: LinkedIn
+#
+# Given a sorted list of numbers, change it into a balanced binary search tree. You can assume there will be no duplicate numbers in the list.
+#
+# from collections import deque
+#
+# class Node:
+#   def __init__(self, value, left=None, right=None):
+#     self.value = value
+#     self.left = left
+#     self.right = right
+#
+# def createBalancedBST(nums):
+#   # Fill this in.
+#
+# print createBalancedBST([1, 2, 3, 4, 5, 6, 7])
+# # 4261357
+# #   4
+# #  / \
+# # 2   6
+# #/ \ / \
+# #1 3 5 7
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16d919b10d6422b3
+
 # Create a balanced binary search tree
 # Given a sorted list of numbers, change it into a balanced binary search tree. You can assume there will be no duplicate numbers in the list.
 

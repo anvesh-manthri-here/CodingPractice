@@ -1,3 +1,21 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Minimum Size Subarray Sum
+# From: daily@techseries.dev  |  Sent: 2019-09-16  |  Asked by: Amazon
+#
+# Given an array of n positive integers and a positive integer s, find the minimal length of a contiguous subarray of which the sum >= s. If there isn't one, return 0 instead.
+#
+# Example:
+# Input: s = 7, nums = [2,3,1,2,4,3]
+# Output: 2
+#
+# Explanation: the subarray [4,3] has the minimal length under the problem constraint.
+#
+# class Solution:
+#   def minSubArrayLen(self, nums, s):
+#     # Fill this in
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16d3a7e8997af4ac
+
 # Minimum Size Subarray Sum
 # Given an array of n positive integers and a positive integer s, find the minimal length of a contiguous subarray of which the sum >= s. If there isn't one, return 0 instead.
 

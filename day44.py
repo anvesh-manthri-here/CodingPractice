@@ -1,3 +1,17 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Longest Substring With K Distinct Characters
+# From: daily@techseries.dev  |  Sent: 2019-10-11  |  Asked by: Amazon
+#
+# You are given a string s, and an integer k. Return the length of the longest substring in s that contains at most k distinct characters.
+#
+# For instance, given the string:
+# aabcdefff and k = 3, then the longest substring with 3 distinct characters would be defff. The answer should be 5.
+#
+# def longest_substring_with_k_distinct_characters(s, k):
+#   # Fill this in.
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16dbb5e0e5fbb41d
+
 # Longest Substring With K Distinct Characters
 
 #You are given a string s, and an integer k. Return the length of the longest substring in s that contains at most k distinct characters.

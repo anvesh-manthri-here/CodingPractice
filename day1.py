@@ -1,3 +1,27 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Add two numbers as a linked list
+# From: daily@techseries.dev  |  Sent: 2019-08-27  |  Asked by: Microsoft
+#
+# You are given two linked-lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
+#
+# Example:
+# Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
+# Output: 7 -> 0 -> 8
+# Explanation: 342 + 465 = 807.
+#
+# Starting point:
+# # Definition for singly-linked list.
+# class ListNode(object):
+#   def __init__(self, x):
+#     self.val = x
+#     self.next = None
+#
+# class Solution:
+#   def addTwoNumbers(self, l1, l2, c = 0):
+#     # Fill this in.
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16cd38ef7e107a25
+
 #Sum of two numbers given in reverse linked list.
 
 

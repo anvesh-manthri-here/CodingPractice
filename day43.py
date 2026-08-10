@@ -1,3 +1,27 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Get all Values at a Certain Height in a Binary Tree
+# From: daily@techseries.dev  |  Sent: 2019-10-10  |  Asked by: Amazon
+#
+# Given a binary tree, return all values given a certain height h.
+#
+# class Node():
+#   def __init__(self, value, left=None, right=None):
+#     self.value = value
+#     self.left = left
+#     self.right = right
+#
+# def valuesAtHeight(root, height):
+#   # Fill this in.
+#
+# #     1
+# #    / \
+# #   2   3
+# #  / \   \
+# # 4   5   7
+# # valuesAtHeight(a, 3) -> [4, 5, 7]
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16db63806b341291
+
 # Get all Values at a Certain Height in a Binary Tree
 # Given a binary tree, return all values given a certain height h.
 

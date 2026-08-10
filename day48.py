@@ -1,3 +1,29 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Word Ordering in a Different Alphabetical Order
+# From: daily@techseries.dev  |  Sent: 2019-10-15  |  Asked by: Apple
+#
+# Given a list of words, and an arbitrary alphabetical order, verify that the words are in order of the alphabetical order.
+#
+# Example:
+# Input:
+# words = ["abcd", "efgh"], order="zyxwvutsrqponmlkjihgfedcba"
+# Output: False
+#
+# Explanation: 'e' comes before 'a' so 'efgh' should come before 'abcd'
+#
+# Example 2:
+# Input:
+# words = ["zyx", "zyxw", "zyxwy"],
+# order="zyxwvutsrqponmlkjihgfedcba"
+# Output: True
+#
+# Explanation: The words are in increasing alphabetical order
+#
+# def isSorted(words, order):
+#   # Fill this in.
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16dcffa1b57302bc
+
 # Word Ordering in a Different Alphabetical Order
 
 #Given a list of words, and an arbitrary alphabetical order, verify that the words are in order of the alphabetical order.

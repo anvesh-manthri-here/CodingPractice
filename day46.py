@@ -1,3 +1,33 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Reconstrunct Binary Tree from Preorder and Inorder Traversals
+# From: daily@techseries.dev  |  Sent: 2019-10-13  |  Asked by: Microsoft
+#
+# You are given the preorder and inorder traversals of a binary tree in the form of arrays. Write a function that reconstructs the tree represented by these traversals.
+#
+# Example:
+# Preorder: [a, b, d, e, c, f, g]
+# Inorder: [d, b, e, a, f, c, g]
+#
+# The tree that should be constructed from these traversals is:
+#     a
+#    / \
+#   b   c
+#  / \ / \
+# d  e f  g
+#
+# from collections import deque
+#
+# class Node(object):
+#   def __init__(self, val):
+#     self.val = val
+#     self.left = None
+#     self.right = None
+#
+# def reconstruct(preorder, inorder):
+#   # Fill this in.
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16dc5aa95cbfe43d
+
 # Reconstrunct Binary Tree from Preorder and Inorder Traversals
 
 #You are given the preorder and inorder traversals of a binary tree in the form of arrays. Write a function that reconstructs the tree represented by these traversals.

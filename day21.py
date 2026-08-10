@@ -1,3 +1,20 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Intersection of Linked Lists
+# From: daily@techseries.dev  |  Sent: 2019-09-18  |  Asked by: Apple
+#
+# You are given two singly linked lists. The lists intersect at some node. Find, and return the node. Note: the lists are non-cyclical.
+#
+# Example:
+# A = 1 -> 2 -> 3 -> 4
+# B = 6 -> 3 -> 4
+#
+# This should return 3 (you may assume that any nodes with the same value are the same node).
+#
+# def intersection(a, b):
+#   # fill this in.
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16d44cb4eb42959e
+
 # Intersection of Linked Lists
 # You are given two singly linked lists. The lists intersect at some node. Find, and return the node. Note: the lists are non-cyclical.
 

@@ -1,3 +1,19 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Merge K Sorted Linked Lists
+# From: daily@techseries.dev  |  Sent: 2019-10-02  |  Asked by: Twitter
+#
+# You are given an array of k sorted singly linked lists. Merge the linked lists into a single sorted linked list and return it.
+#
+# class Node(object):
+#   def __init__(self, val, next=None):
+#     self.val = val
+#     self.next = next
+#
+# def merge(lists):
+#   # Fill this in.
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16d8c75cea565c6a
+
 # Merge K Sorted Linked Lists
 # You are given an array of k sorted singly linked lists. Merge the linked lists into a single sorted linked list and return it.
 

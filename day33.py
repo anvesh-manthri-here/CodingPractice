@@ -1,3 +1,21 @@
+# Daily Interview Pro email (full content)
+# Subject: [Daily Problem] Queue Using Two Stacks
+# From: daily@techseries.dev  |  Sent: 2019-09-30  |  Asked by: Apple
+#
+# Implement a queue class using two stacks. A queue is a data structure that supports the FIFO protocol (First in = first out). Your class should support the enqueue and dequeue methods like a standard queue.
+#
+# class Queue:
+#   def __init__(self):
+#     # Fill this in.
+#
+#   def enqueue(self, val):
+#     # Fill this in.
+#
+#   def dequeue(self):
+#     # Fill this in.
+#
+# Original email: https://mail.google.com/mail/u/0/#all/16d829675473d614
+
 # Queue Using Two Stacks
 # Implement a queue class using two stacks. A queue is a data structure that supports the FIFO protocol (First in = first out). Your class should support the enqueue and dequeue methods like a standard queue.
 
